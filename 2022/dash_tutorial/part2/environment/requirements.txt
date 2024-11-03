@@ -5,3 +5,4 @@ pandas
 pandas-stubs
 plotly
 python-i18n
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
