@@ -8,3 +8,5 @@ tensorboard
 mlflow
 tqdm
 pillow
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
